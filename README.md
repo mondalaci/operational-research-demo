@@ -10,3 +10,5 @@ during the input rather than having to handle tons of pop-ups throughout
 the process.
 
 I think it's a much more usable interaction model.
+
+![](https://raw.github.com/mondalaci/operational-research-demo/master/screenshot.png)
