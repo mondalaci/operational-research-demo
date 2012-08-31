@@ -7,4 +7,6 @@ It features an incremental UI by which I mean a kind of UI which the user can in
 
 ![](https://raw.github.com/mondalaci/operational-research-demo/master/screenshot.png)
 
+I'd like to thank the professor for being merciful and giving me a D at the end of the course despite me cheating my way through this whole shit.
+
 Enjoy!
