@@ -9,6 +9,6 @@ It features an incremental UI which the user can incrementally fill out as (s)he
 
 You can download detailed Hungarian documentation in [sxw](https://github.com/mondalaci/operational-research-demo/raw/master/opres-demo-hungarian.sxw) and [doc](https://github.com/mondalaci/operational-research-demo/raw/master/opres-demo-hungarian.sxw) formats.
 
-I'd like to thank the professor for being merciful and giving me a D at the end of the course despite me cheating my way through this whole shit.
+I'd like to thank the professor for being merciful and giving me a D at the end of the course despite me cheating my way through this pain.
 
 Enjoy!
