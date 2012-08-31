@@ -1,7 +1,7 @@
 Operational Research Demo
 -------------------------
 
-Operational Research Demo is a PyGTK-based GUI application which I created in 2005 for the (much hated) operational research course of the university.
+Operational Research Demo is a [PyGTK](http://pygtk.org/)-based GUI application which I created in 2005 for the (much hated) operational research course of the university.
 
 It features an incremental UI which the user can incrementally fill out as (s)he gives more and more information during the input rather than having to handle tons of pop-ups throughout the process.
 
