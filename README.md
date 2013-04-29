@@ -5,7 +5,7 @@ Operational Research Demo is a [PyGTK](http://pygtk.org/)-based GUI application 
 
 It features an incremental UI which the user can incrementally fill out as (s)he gives more and more information during the input rather than having to handle tons of pop-ups throughout the process.
 
-![](/mondalaci/operational-research-demo/raw/master/screenshot.png)
+![screenshot](screenshot.png)
 
 You can download detailed Hungarian documentation in [sxw](https://github.com/mondalaci/operational-research-demo/raw/master/opres-demo-hungarian.sxw) and [doc](https://github.com/mondalaci/operational-research-demo/raw/master/opres-demo-hungarian.sxw) formats.
 
